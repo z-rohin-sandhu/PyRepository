@@ -1,0 +1,17 @@
+[
+  {
+    "name": "test1",
+    "url": "https://test1.org",
+    "welcome_text": "Hello, I'm test1"
+  },
+  {
+    "name": "test2",
+    "url": "https://test2.org",
+    "welcome_text": "Hello, I'm test2"
+  },
+  {
+    "name": "test3",
+    "url": "https://test3.org",
+    "welcome_text": "Hello, I'm test3"
+  }
+]
